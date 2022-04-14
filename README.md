@@ -1,7 +1,8 @@
 声音作品展示
 
 总大小:1.97G
-
+ 
+ 
 擅长音频制作宿主软件：[熟练度从左到右依次]
 
 --Reaper / Pro Tools / Cubase / Logic 
@@ -13,8 +14,8 @@
 擅长工作流辅助工具：[不分先后顺序]
 
 --SVN / P4V / Soundminer / MAAT bundle 
-
-
+ 
+ 
 个人设备：
 
 --显卡：3060 ti
@@ -28,8 +29,8 @@
 --表头：TC Clarity M [ST / 立体声版]
 
 --键盘：Korg microKey
-
-
+ 
+ 
 --iLok正版授权：
 
 ----DAW：
